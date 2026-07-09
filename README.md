@@ -152,7 +152,7 @@ Through this project, the following skills were strengthened:
 
 ---
 
-
+## Author
 
 **Tanuja Maruti Waware**
 
